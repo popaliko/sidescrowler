@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAEAAAAAAAAAP8AAAAAAAAA/w8AAAAAAAD//wAAAAD///////9A8P///////0T/H///////QP//9P///wAA//9E////AAD/H///////QPD///////9EAP///////0AAAAD//wAAAAAAAP8PAAAAAAAA/wAAAAAAAAAEAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Crow"
+    },
+    "image2": {
+        "data": "hwQoACgAAAAAAAAwMyI/MzMzMzMDAAAAAAAAAAAAMDM/IjIzMzMzMzMAAAAAAAAAAAAzM/MiMjMzMzMzMwMAAAAAAAAAMDMzMz8zM/////8zMwAAAAAAADAzMzMzMzMz/////zMzAAAAAAAAMzMzMzMzM/P/////MzMDAAAAAAAzMzMzMzMz////LzMzMwMwAAAAADMzMzMzMzP///8iMzMzMzAzMwMAMzMzMzMzM////yIzMzMzMzMDAAAzMzMzMzMz////IjMzMzMzMwMAADMzM/MzMzP///8yMzMzMwMzMwMAMzMzLyI/M////zIzMzMzAwAAAAAzM/MjIjIz////PzMzMzMDAAAAADMzMyMiMjPz//8/MzMzMwMAAAAAMzMzIyIyM/P//z8zMzMzAwAAAAAzMzMzMzMzMzMzMzMzMzMDAwAAADMzMzMzMzMzMzMzMzMzMwMzMwAAMzMzMzMzMzMzMzMzMzMzMzMDAAAzMzMzMzMzMzMzMzMzMzMDMzMAADMzMzMzMzMzMzMzMzMzuwsAAAAAuzMzMzMzMzMzMzMzM7u7CwAAAAC7uzMzMzMzMzMzM7O7u7sLAAAAALu7OzMzMzMzM7O7u7u7uwsAAAAAu7u7u7u7u7u7u7u7u7u7AAAAAAC7u7u7u7u7u7u7u7u7u7sAAAAAALu7u7u7u7u7u7u7u7u7CwAAAAAwu7u7u7u7u7u7u7u7u7sAAAAAADOzu7u7u7u7u7u7u7u7CwAAAAC7MzO7u7u7u7u7u7u7u7sAAAAAM7s7M7O7u7u7u7u7uzMzMwAAALszszswMzMzMzMzMzMzMzMzADCzuzOzuzAzMzMzMzMzMzMzM7O7O7O7M7O7ADMzMzMzMzMzMzMzu7s7s7szs7sAMDMzMzMzMzMzM7O7uzuzuzOzuwAAMzMzMzMzMzMzu7u7M7O7M7O7AAAAMzMzMzMzM7u7uzszs7s7M7sAAACwu7u7u7u7u7u7MzO7uzszuwAAAAC7u7u7u7u7uzszM7u7OzMAAAAAAAC7u7u7u7s7MzOzu7s7AAAAAAAAAAAAu7u7uzszM7O7uwsAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "HungryWorm"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
